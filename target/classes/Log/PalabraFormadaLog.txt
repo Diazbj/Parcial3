@@ -1,0 +1,2 @@
+may 22, 2024 4:51:31 P. M. co.edu.uniquindio.Ejercicio_1.Utils.ArchivoLogger guardarRegistroLog
+INFO: [INFO] 2024-05-22 - PalabraCompletada - Palabra formada completada: prog
